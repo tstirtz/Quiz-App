@@ -1,0 +1,11 @@
+The user should be able to click a button on the home page that starts the quiz
+Users should be prompted through a series of at least 5 multiple choice questions that they can answer.
+    Users should be asked questions 1 after the other.
+    Users should only be prompted with 1 question at a time.
+Users are required to answer each question.
+Users should be able to see what question they are on.
+Users should be able to see how many questions they have answered correctly out of the total.
+Users should be provided feedback with the correct answer, if they answered incorrectly.
+after recieving feedback the user should either be moved onto the next question or prompted to move on.
+At the end of the quiz, users should be provided with their score. How many they answered correctly out of the total.
+At the end of the quiz, users should be able to start the quiz over.
